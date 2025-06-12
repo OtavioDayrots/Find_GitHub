@@ -192,6 +192,7 @@ const styles = StyleSheet.create({
   inputContainer: {
     width: '100%',
     marginBottom: 20,
+    maxWidth: "300px",
   },
   input: {
     width: '100%',
