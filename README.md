@@ -1,4 +1,4 @@
-# Dobi
+# Find_Github
 
 Aplicativo mobile feito em React Native (Expo) para buscar e visualizar rapidamente perfis do GitHub.
 
@@ -15,7 +15,7 @@ Aplicativo mobile feito em React Native (Expo) para buscar e visualizar rapidame
 1. **Clone o repositório:**
    ```bash
    git clone <URL_DO_REPOSITORIO>
-   cd Dobi
+   cd Find_Github
    ```
 
 2. **Instale as dependências:**
